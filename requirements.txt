@@ -1,5 +1,3 @@
 fastapi[all]
-base64
-requests
 cohere
 elevenlabs
